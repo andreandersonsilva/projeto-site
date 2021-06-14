@@ -7,9 +7,14 @@ body{
     background-color: rgb(284, 157, 248);
 }
 
+img.lado{
+    float: right;
+}
+
 main{
     background-color: white;
     width: 500px;
     margin:auto;
     box-shadow: 5px 5px 5px black;
+    padding: 8px;
 }
